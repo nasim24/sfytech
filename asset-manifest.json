@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sfytech/static/css/main.ce00f2e7.chunk.css",
+    "main.js": "/sfytech/static/js/main.01261e96.chunk.js",
+    "main.js.map": "/sfytech/static/js/main.01261e96.chunk.js.map",
+    "runtime-main.js": "/sfytech/static/js/runtime-main.e49d125f.js",
+    "runtime-main.js.map": "/sfytech/static/js/runtime-main.e49d125f.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/sfytech/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.f098d304.chunk.js": "/sfytech/static/js/2.f098d304.chunk.js",
+    "static/js/2.f098d304.chunk.js.map": "/sfytech/static/js/2.f098d304.chunk.js.map",
+    "static/js/3.996641f6.chunk.js": "/sfytech/static/js/3.996641f6.chunk.js",
+    "static/js/3.996641f6.chunk.js.map": "/sfytech/static/js/3.996641f6.chunk.js.map",
+    "index.html": "/sfytech/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/sfytech/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.ce00f2e7.chunk.css.map": "/sfytech/static/css/main.ce00f2e7.chunk.css.map",
+    "static/js/2.f098d304.chunk.js.LICENSE.txt": "/sfytech/static/js/2.f098d304.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e49d125f.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.f098d304.chunk.js",
+    "static/css/main.ce00f2e7.chunk.css",
+    "static/js/main.01261e96.chunk.js"
+  ]
+}
